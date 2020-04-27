@@ -12,7 +12,7 @@ Covered 5 courses in data science all in Python:
 5. Applied Social Network Analysis in Python (in progress)
 
 Skills learned:
-- Statistical aearning + machine learning techniques
+- Statistical learning + machine learning techniques
 - Data visualization
 - Text analysis
 - Intermediate-advanced python
